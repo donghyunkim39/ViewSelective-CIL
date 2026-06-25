@@ -1,4 +1,4 @@
-# End-to-End-Self-Driving-with-ViT-Based-Multi-View-Perception-and-Intention-Aware-View-Weighting
+# End-to-End Vehicle Lateral Control with Transformer-Based Perception and Intention-Aware View Weighting
 A multi-view image–based lateral control system for autonomous vehicles using conditional imitation learning with left, front, and right camera inputs.
 
 ---
