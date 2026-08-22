@@ -9,7 +9,7 @@ A multi-view image–based lateral control system for autonomous vehicles using 
 <img src="assets/Graphical_Abstract.png" width="1000">
 This research accompanies the research titled :
 
-"**End-to-End Self-Driving with ViT-Based Multi-View Perception and Intention-Aware View Weighting**" by Dong-Hyun Kim and Yong-Gu Lee
+"**End-to-End Vehicle Lateral Control with Transformer-Based Perception and Intention-Aware View Weighting**" by Dong-Hyun Kim and Yong-Gu Lee
 
 And
 
