@@ -176,11 +176,17 @@ This work proposes an end-to-end autonomous driving model that dynamically adjus
 *Each start–goal pair was evaluated twice in CARLA Town02 (50 episodes in total), and the success rate was used as the primary evaluation metric.*
 
 #### 🎯 Success Rate (%)
-| Task  | CIL | CILR | CILRS | **ViewSelective-CIL (Ours)** |
-|-------|-----|------|-------|-----------------------------|
-| Empty | 24  | 66   | 90    | **96**                      |
+## Empty (new town & weather)
 
-*Baseline results (CIL, CILR, CILRS) are reported from Codevilla et al. (2018, 2019) under the same NoCrash (New Town & Weather) evaluation protocol.*
+| Model | Sensor modality | Success rate (%) |
+|-------|----------------|-----------------|
+| CILR | RGB (1) + Speed | 66 |
+| CILRS | RGB (1) + Speed | 90 |
+| LBC | RGB (1) + Speed | 36 |
+| WOR | RGB (1) + Speed | 78 |
+| CADRE | RGB (1) + Speed, position, and orientation | 78 |
+| GRIAD | RGB (3) | 69 |
+| **ViewSelective-CIL (Ours)** | RGB (3) + Speed | **96** |
 
 
 ---
