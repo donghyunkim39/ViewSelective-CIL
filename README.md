@@ -246,7 +246,7 @@ Samples sharing the same `seq_idx` correspond to **five consecutive frames colle
 ---
 
 ## 📄 Paper
-Paper:
+Paper: https://doi.org/10.1093/jcde/qwag075
 
 ---
 
