@@ -188,7 +188,7 @@ This work proposes an end-to-end autonomous driving model that dynamically adjus
 
 ## 💰 Funding
 
-This work was partially supported by the Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2019-0-01842, Artificial Intelligence Graduate School Program (GIST)); Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) [P0020535, The Competency Development Program for Industry Specialist]; the InnoCORE program of the Ministry of Science and ICT (25-InnoCORE-01); and by the Regional Innovation System & Education (RISE) program through the Gwangju RISE Center, funded by the Ministry of Education (MOE) and the Gwangju Metropolitan City, Republic of Korea. (2025-RISE-05-001).
+This work was partially supported by the Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) [No.2019-0-01842, Arti-ficial Intelligence Graduate School Program (GIST)]; Korea Insti-tute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) [P0020535, The Competency Development Program for Industry Specialist]; the InnoCORE program of the Ministry of Science and ICT (25-InnoCORE-01); and by the ANCHOR program through the Gwangju ANCHOR Center, funded by the Ministry of Education (MOE) and the Jeonnam-Gwangju Special Metropolitan City, Republic of Korea (2026-ANCHOR-05-001).
 
 
 ---
